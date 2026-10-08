@@ -1,3 +1,27 @@
+## [48.1.6](https://github.com/ipfs/aegir/compare/v48.1.5...v48.1.6) (2026-08-27)
+
+### Bug Fixes
+
+* only pass strip types prior to node 26 ([0d9f04d](https://github.com/ipfs/aegir/commit/0d9f04db508ce4bdffc4381e4d4e3f8f647d55ed))
+
+## [48.1.5](https://github.com/ipfs/aegir/compare/v48.1.4...v48.1.5) (2026-08-26)
+
+### Bug Fixes
+
+* do not lint deep dist directories ([3feba8e](https://github.com/ipfs/aegir/commit/3feba8eebd0cd02d851bad02c291758a00a92d0f))
+
+## [48.1.4](https://github.com/ipfs/aegir/compare/v48.1.3...v48.1.4) (2026-08-16)
+
+### Bug Fixes
+
+* revert previous commit ([276da7f](https://github.com/ipfs/aegir/commit/276da7fa2d67f7c994a7f9e5052d17392118b6d6))
+
+## [48.1.3](https://github.com/ipfs/aegir/compare/v48.1.2...v48.1.3) (2026-08-16)
+
+### Bug Fixes
+
+* do not reset timer once set ([b806fda](https://github.com/ipfs/aegir/commit/b806fda237bdd93b08efd398d3c137552438fd38))
+
 ## [48.1.2](https://github.com/ipfs/aegir/compare/v48.1.1...v48.1.2) (2026-07-03)
 
 ### Bug Fixes
